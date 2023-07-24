@@ -1,0 +1,543 @@
+
+.input{
+
+margin-left: 500px;
+padding-left: 20px;
+padding-top: 18px;
+padding-bottom: 18px;
+width: 450px;
+border-radius: 30px;
+border: 2px solid black;
+
+}
+.button{
+ 
+  margin-left: 400px; 
+  font-size: 30px;
+  border: none;
+  font-weight: 650;
+  background-color: #f1fff9;
+ 
+
+}
+
+
+.hr{
+  margin-left: 350px;
+  margin-right: 300px;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+.icon{
+  margin-left: 140px;
+  font: 30px;
+  
+}
+.icon1{
+  margin-left: 270px;
+}
+
+ 
+.icon2{
+  margin-left: 50px;
+}
+.icon3{
+  margin-left: 50px;
+}
+.term{
+margin-top: 130px;
+font-size: 20px;
+font-weight: 650;
+background-color: #f1fff9;
+text-decoration: underline;
+  border: none;
+  margin-left: 860px;
+  
+
+
+}
+.term:hover{
+  text-decoration: none;
+}
+.policy{
+  margin-top: 130px;
+  font-size: 20px;
+  font-weight: 650;
+  background-color: #f1fff9;
+  text-decoration: underline;
+    border: none;
+    margin-left: 110px;
+    margin-bottom: 150px;
+   
+  
+  
+  }
+  .para{
+    font-size: 20px;
+  }
+  .policy:hover{
+    text-decoration: none;
+  }
+  .ch{
+     background-color:#f1fff9;
+  }
+  .bg{
+    background-color: #054a49;
+    padding-top: 80px;
+    padding-bottom: 50px;
+  }
+  .input1{
+
+    margin-left: 500px;
+    padding-left: 20px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    width: 450px;
+    border-radius: 30px;
+    border: 2px solid white;
+    background:  #054a49;
+    
+
+
+    
+    }
+    .dispaly{
+      font-size: 25px;
+    }
+    .disply{
+      font-size: 25px;
+      margin-bottom: 90px;
+      margin-top: 40px;
+    }
+    .dispy{
+      font-size: 25px; 
+   
+    }
+  
+    .Main{
+     
+      margin-left: 500px;
+      width: 500px;
+
+  
+      border-radius: 35px;
+    border: 2px solid white;
+      background:  #054a49;
+
+    }
+    .Enter{
+      margin-top: 17px;
+   margin-left: 20px;
+   background: none;
+   border: none;
+   color: white;
+   text-decoration: none;
+  
+    }
+    .Trail{
+
+       margin-left: 102px;
+       border-radius: 40px;
+       padding-top: 12px;
+       padding-bottom: 12px;
+       padding-left: 25px;
+       padding-right: 25px;
+       margin-top: 5px;
+       margin-bottom: 5px;
+       font-size: 20px;
+       font-weight: 600;
+       background-color: white;
+       
+    }
+    .Email{
+     
+      margin-top: 17px;
+   margin-left: 20px;
+   background: none;
+   border: none;
+   color: Black;
+  
+    }
+    .Start{
+ margin-left: 10px; 
+       margin-left: 102px;
+       border-radius: 40px;
+       padding-top: 12px;
+       padding-bottom: 12px;
+       padding-left: 25px;
+       padding-right: 25px;
+       margin-top: 5px;
+       margin-bottom: 5px;
+       font-size: 20px;
+       font-weight: 600;
+       background-color: black;
+       color: white;
+       
+    }
+    .Main1{
+     
+      margin-left: 500px;
+      width: 500px;
+    
+  
+      border-radius: 30px;
+    border: 3px solid black;
+  
+
+    }
+    .dispay{
+      font-size: 13px;
+    }
+    .display-7{
+      font-size: 19px;
+    }
+    .build{
+      padding-top: 70px;
+    }
+    .pb-5{
+      margin-bottom: 50px;
+      
+    }
+
+    .pt-5{
+    padding-top: 100px;
+    }
+    .custom{
+      width: 500px;
+    }
+    .ustom{
+      width: 600px;
+    }
+    .para{
+      margin-left: 410px;
+    }
+
+
+
+    .text{
+      margin-top: 20px;
+      margin-left: 700px;
+    }
+
+
+
+
+    .shpir{
+      width: 500px;
+      height: 730px;
+    }
+    .mt{
+
+      font-weight:600;
+      margin-top: 170px;
+      font-size: 35px;
+    }
+    .display-7{
+      /* width: 750px; */
+      font-weight: 500;
+      font-size: 22px;
+      /* color: #c8c8cd; */
+    }
+    .Create{
+
+      text-decoration: underline;
+      color:#3699ff ;
+     
+      font-weight: 600;
+    }
+      .Create:hover{
+
+        color: blue;
+      }
+      .diplay-7{
+width: 750px;
+        font-size: 20px;
+        font-weight: 600;
+        padding-bottom: 5px;
+      }
+      .place{
+        width: 470px;
+        padding-top: 20px;
+        border: none;
+        border: 1px solid #e4e6ef;
+        border-radius: 6px;
+      }
+.In{
+
+  width:470px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  font-weight: 650;
+  color: white;
+  background-color: #86c2ff;
+  border: none;
+  border-radius: 5px;
+}
+.for{
+
+margin-left: 230px;
+font-size: 15px;
+border: none;
+background-color: white;
+color: #bcb5c3;
+}
+.for:hover{
+  color:#3699ff;
+}
+.pin{
+
+  width: 70px;
+  margin-left: 660px;
+  margin-top: 80px;
+}
+.wel{
+  margin-left: 30px;
+}
+.got{
+  transform: translateY(-50%) rotate(-90deg) translateX(50%) translateY(-50%);
+  right: 0;
+  top: 50%;
+  transform-origin: center right;
+  margin-left: 168px;
+  background:#2d6ffb;
+  border: none;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 10px;
+ }
+
+
+/* .div{
+
+  margin-left: 30px;
+} */
+
+
+/* .col-3 {
+  flex: 0 0 auto;
+  width: 25%;
+    display: flex !important;} */
+  
+
+    .face{
+  width: 50px;
+  height:60px;
+  border-radius: 100px;
+  margin-left:20px ;
+  /* margin-left: 700px; */
+  margin-top: 20px;
+  float: left;
+    }
+    .face1{
+      width: 50px;
+      height:60px;
+      border-radius: 100px;
+      margin-left:20px ;
+      /* margin-left: 700px; */
+      margin-top: 20px;
+      float: left;
+        }
+    .what{
+      margin-top: 40px;
+      margin-left: 20px; 
+       float: left;
+       color: #9fa4b2;
+       font-weight: 500;
+       border: none;
+     
+    }
+    .card1{
+      width: 500px;
+      /* margin-left: 25px; */
+      /* height: 100pxs; */
+      margin-top: 100px;
+   margin-top: 20px;
+  }
+
+.card{
+  width: 500px;
+  /* margin-left: 25px; */
+  /* height: 100pxs; */
+  margin-top: 100px;
+margin-top: 20px;
+}
+    /*  */
+    .photo{
+
+      width: 120px;
+      float: left;
+      margin-left: 20px;
+      background: black;
+      color: white;
+      border-radius: 30px;
+    }
+    .post{
+      margin-left: 260px;
+      width: 80px;
+      float: left;
+      margin-bottom:0px;
+      border: none;
+      background: #8eb2f7;
+      color: white;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      font-weight:500;
+    border-radius: 5px;
+    }
+    .sho{
+
+      color: #5a595e;
+      margin-top: 20px;
+      margin-left: 20px;
+      font-weight: 600;
+    }
+    .oh{
+
+      color:  #8eb2f7;
+      margin-left: 20px;
+    }
+    .go{
+      margin-left: 20px;
+    
+    }
+    .test{
+      margin-left: 30px;
+      color: #7f7e85;
+      font-weight: 800;
+    }
+    .tes{
+      margin-left: 30px;
+      color: #7f7e85;
+      font-weight: 500;
+    }
+
+    .like{
+
+      float: left;
+      margin-left: 20px;
+      margin-bottom: 10px;
+
+    }
+    .com{
+      float: left;
+      margin-left: 20px;
+    }
+    .bg{
+      /* background: #f7f7f7; */
+    }
+    .back{
+
+/* background-color: #dae1e9; */
+margin-left: 500px;
+margin-right: 450px;
+margin-top: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+
+    }
+
+
+
+    
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.home,
+.services,
+.reports,
+.contact,
+.events,
+.support {
+  display: flex;
+  margin-left: 260px;
+  font-size: 2rem;
+}
+
+
+.div1{
+
+  
+  color: black;
+   padding:10px 15px ; 
+  margin-bottom: 10px;
+  /* width: 100%; */
+  text-decoration: none;
+  display: flex;
+  font-size: 30px;
+
+
+
+
+}
+.div1:hover{
+  color:aqua;
+
+ 
+} 
+.bgimg{
+
+  background-image: url('../src/images/About.webp');
+  background-attachment: fixed;
+  background-size:100% 100%;
+  width: 100%;
+  height: 650px;
+  }
+  .our{
+  
+     padding-top: 100px;
+  }
+  
+  .ourservices{
+  
+    padding: 100px 0px 60px;
+    /* height: 700px; */
+  }
+  .rowsetting{
+  
+  margin: 80px 0px;
+  
+  }
+  .ourservices h1{
+  
+     font-size: 50px;
+     font-weight: bold;
+  } 
+  .imgsetting{
+  
+     border-radius: 50%;
+     width: 100px;
+     height: 100px;
+  }
+  .fa-shopping-cart {
+     margin-top: 20px;
+  }
+  .fa-desktop{
+  
+     margin-top: 20px;
+  }
+  .fa-lock{
+  
+     margin-top: 20px;
+  }
+  .protfolio {
+  
+     padding-top : 300px;
+    
+  }
+  .card{
+  
+     width: 100%;
+     margin-bottom: 20px;
+  }
+  .new{
+  
+     margin-top: 20px;
+     text-decoration: underline;
+  }
+  .bs{
+    font-size: 40px;
+    margin-top: 30px;
+  }
